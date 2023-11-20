@@ -21,3 +21,8 @@ sh 7-install-docker.sh
 
 echo "8 - Install Rust"
 sh 8-install-rust.sh
+
+echo "9 - Install NVM"
+sh 9-install-nvm.sh
+
+source ~/.zshrc
