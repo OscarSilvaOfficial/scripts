@@ -25,4 +25,7 @@ sh 8-install-rust.sh
 echo "9 - Install NVM"
 sh 9-install-nvm.sh
 
+echo "10 - Install Postman"
+sh 10-install-nvm.sh
+
 source ~/.zshrc
