@@ -1,1 +1,3 @@
-curl -sS https://starship.rs/install.sh | sh && echo eval "$(starship init zsh)" >> ~/.zshrc
+curl -sS https://starship.rs/install.sh | sh 
+
+echo \\n\# Starship Configs \\neval "$(starship init zsh)" >> ~/.zshrc
