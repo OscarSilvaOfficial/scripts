@@ -18,3 +18,6 @@ sh 6-install-tilix.sh
 
 echo "7 - Install Docker"
 sh 7-install-docker.sh
+
+echo "8 - Install Rust"
+sh 8-install-rust.sh
