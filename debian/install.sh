@@ -28,4 +28,7 @@ sh 9-install-nvm.sh
 echo "10 - Install Postman"
 sh 10-install-nvm.sh
 
+echo "Final - Alias"
+sh final-add-my-alias.sh
+
 source ~/.zshrc
