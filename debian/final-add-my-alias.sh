@@ -4,6 +4,7 @@ echo \\n# Git >> ~/.zshrc
 echo 'alias add="git add"' >> ~/.zshrc
 echo 'alias commit="git commit -m"' >> ~/.zshrc
 echo 'alias push="git push"' >> ~/.zshrc
+echo 'alias pull="git pull"' >> ~/.zshrc
 echo 'alias merge="git merge"' >> ~/.zshrc
 echo 'alias checkout="git checkout"' >> ~/.zshrc
 echo 'alias main="git checkout main"' >> ~/.zshrc
