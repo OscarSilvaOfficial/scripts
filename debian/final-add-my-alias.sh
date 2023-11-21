@@ -9,6 +9,7 @@ echo 'alias merge="git merge"' >> ~/.zshrc
 echo 'alias checkout="git checkout"' >> ~/.zshrc
 echo 'alias main="git checkout main"' >> ~/.zshrc
 echo 'alias qa="git checkout qa"' >> ~/.zshrc
+echo 'alias cbranch="git checkout -b"' >> ~/.zshrc
 
 echo \\n# Node >> ~/.zshrc
 echo 'alias dev="npm run dev"' >> ~/.zshrc
