@@ -28,6 +28,9 @@ sh 9-install-nvm.sh
 echo "10 - Install Postman"
 sh 10-install-nvm.sh
 
+echo "11 - Install Jetbrains fonts"
+sh 11-install-fonts.sh
+
 echo "Final - Alias"
 sh final-add-my-alias.sh
 
